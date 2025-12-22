@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 22
+VisualStudioVersion = 18.1.11304.174 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca.csproj", "{7277FD3E-1B02-4EBD-9E6B-08B92AA9F4B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Default|Any CPU = Default|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7277FD3E-1B02-4EBD-9E6B-08B92AA9F4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7277FD3E-1B02-4EBD-9E6B-08B92AA9F4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7277FD3E-1B02-4EBD-9E6B-08B92AA9F4B6}.Default|Any CPU.ActiveCfg = Release|Any CPU
+		{7277FD3E-1B02-4EBD-9E6B-08B92AA9F4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7277FD3E-1B02-4EBD-9E6B-08B92AA9F4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91A5087-5575-4A9E-ADEB-7B0A64641DA7}.Debug|Any CPU.ActiveCfg = Default
+		{F91A5087-5575-4A9E-ADEB-7B0A64641DA7}.Default|Any CPU.ActiveCfg = Default
+		{F91A5087-5575-4A9E-ADEB-7B0A64641DA7}.Release|Any CPU.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD607C0D-EDBF-48C0-BECF-F6483EA2C07F}
+	EndGlobalSection
+EndGlobal
